@@ -31,5 +31,5 @@ The site will be available at `http://localhost:3000`
 
 ## 🔗 Contact
 
-- Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+- Portfolio: [Portfolio](https://rayyan-shaikh-portfolio.vercel.app/)
 - GitHub: [@Rayyan-Shk](https://github.com/Rayyan-Shk)
